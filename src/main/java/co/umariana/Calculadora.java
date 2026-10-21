@@ -10,7 +10,7 @@ package co.umariana;
  * 2. NO modifique las pruebas (src/test). Ejecútelas con:   mvn test
  * 3. No cambie los nombres ni los parámetros de los métodos.
  */
-///editado por Gabriel David Obando Rosero
+///editado por Gabriel David Obando Rosero AKA GROBD
 public class Calculadora {
 
     /** @return la suma de a y b */
